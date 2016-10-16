@@ -1,7 +1,7 @@
 {
   "name": "atom-charcoal-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Atom color scheme based on the Oceanic Next.",
   "keywords": [
     "syntax",
